@@ -1,0 +1,10 @@
+node_modules/
+.env
+dist/
+server/public/
+*.log
+.vs/
+.DS_Store
+videos/
+shots/
+downloads/
