@@ -14,6 +14,9 @@ A MERN-stack web app for tracking sourcing, inventory, and order fulfilment from
 
 ## Demo video first
 [page@1af95c818893ebcfc4ed9bf3b37ca3fd.webm](https://github.com/user-attachments/assets/3010683d-3e8b-44a3-8574-5d4a882ce5da)
+[page@83aa6251f572afc9fcf4ef9d21640048.webm](https://github.com/user-attachments/assets/ff6a80d0-667d-4df7-96c8-5307fed2743b)
+
+
 
 
 
